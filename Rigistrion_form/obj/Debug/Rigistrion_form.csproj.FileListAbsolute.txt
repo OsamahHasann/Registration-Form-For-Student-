@@ -1,0 +1,22 @@
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\bin\Debug\Rigistrion_form.exe.config
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\bin\Debug\Rigistrion_form.exe
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\bin\Debug\Rigistrion_form.pdb
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.AssemblyReference.cache
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.SuggestedBindingRedirects.cache
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.Form1.resources
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.Properties.Resources.resources
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.GenerateResource.cache
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.CoreCompileInputs.cache
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.exe
+D:\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.pdb
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\bin\Debug\Rigistrion_form.exe.config
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\bin\Debug\Rigistrion_form.exe
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\bin\Debug\Rigistrion_form.pdb
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.AssemblyReference.cache
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.SuggestedBindingRedirects.cache
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.Form1.resources
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.Properties.Resources.resources
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.GenerateResource.cache
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.CoreCompileInputs.cache
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.exe
+D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.pdb
