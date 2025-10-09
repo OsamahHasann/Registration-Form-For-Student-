@@ -1,8 +1,8 @@
-User Name: 
-Email: 
-Password: System.Windows.Forms.TextBox, Text: 
-ID: 
-Gender: 
-study level: System.Windows.Forms.TextBox, Text: Birth day: 
- Country: 
-Favorite Color: 
+User Name: dddd
+Email: ddd@ddd.dd
+Password: System.Windows.Forms.TextBox, Text: 22222222
+ID: 2222222222222
+Gender: Mule
+study level: System.Windows.Forms.TextBox, Text: ddd 10/10/25
+ Country: Yemen
+Favorite Color: Selected color: ffffff80

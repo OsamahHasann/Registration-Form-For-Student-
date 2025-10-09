@@ -133,7 +133,7 @@ namespace Rigistrion_form
         private void btn_save_Click(object sender, EventArgs e)
         {
             string data = $"User Name: {user_name}\nEmail: {email}\nPassword: {lb_password}\nID: {id}\nGender: {gender}\nstudy level: {lb_stu_level}" +
-                $"Birth day: {birth_day}\n Country: {country}\nFavorite Color: {color}"; ;
+                $" {birth_day}\n Country: {country}\nFavorite Color: {color}"; ;
 
             File.WriteAllText("student_data.txt",data);
             if(pic_student.Image != null)
@@ -156,11 +156,11 @@ namespace Rigistrion_form
                 return;
             }
             string[] lines = File.ReadAllLines("student_data.txt");
-           /* if(lines.Length < 9)
+            if(lines.Length < 8)
             {
                 MessageBox.Show("saved data in complate!");
                 return ;
-            }*/
+            }
 
             lb_username.Text = lines[0];
             lb_email.Text = lines[1];
@@ -171,6 +171,9 @@ namespace Rigistrion_form
            
             lb_stu_level.Text = lines[5];
             dtp_birthdate.Value = DateTime.Parse(lines[6]);
+           // string dateString = lines[6].Replace("Birth day: ", "").Trim();
+           // dtp_birthdate = DateTime.Parse(dateString);
+
             cmb_country.SelectedItem = lines[7];
             lbl_selected_color.Text = "Selected Color: "+lines[8];
             if (File.Exists("student_picture.jpg") && lines[9] == "student_picture.jpg")
@@ -181,6 +184,7 @@ namespace Rigistrion_form
             {
                 pic_student.Image = null;
             }
+
         }
     }
 }
