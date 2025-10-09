@@ -1,0 +1,8 @@
+User Name: 
+Email: 
+Password: System.Windows.Forms.TextBox, Text: 
+ID: 
+Gender: 
+study level: System.Windows.Forms.TextBox, Text: Birth day: 
+ Country: 
+Favorite Color: 

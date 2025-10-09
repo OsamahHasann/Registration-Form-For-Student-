@@ -20,3 +20,14 @@ D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form
 D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.CoreCompileInputs.cache
 D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.exe
 D:\مستوى ثالث ترم اول\C#_عملي\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.pdb
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\bin\Debug\Rigistrion_form.exe.config
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\bin\Debug\Rigistrion_form.exe
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\bin\Debug\Rigistrion_form.pdb
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.AssemblyReference.cache
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.Form1.resources
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.Properties.Resources.resources
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.GenerateResource.cache
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.csproj.CoreCompileInputs.cache
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.exe
+C:\Users\TSS\Desktop\Rigistrion_form\Rigistrion_form\obj\Debug\Rigistrion_form.pdb
