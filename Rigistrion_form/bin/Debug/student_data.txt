@@ -1,8 +1,9 @@
-User Name: dddd
-Email: ddd@ddd.dd
-Password: System.Windows.Forms.TextBox, Text: 22222222
-ID: 2222222222222
-Gender: Mule
-study level: System.Windows.Forms.TextBox, Text: ddd 10/10/25
- Country: Yemen
-Favorite Color: Selected color: ffffff80
+ System.Windows.Forms.TextBox, Text: wwwwwwwww
+System.Windows.Forms.TextBox, Text: wwwwwwwww@ww.ww
+System.Windows.Forms.TextBox, Text: 22222222222
+System.Windows.Forms.TextBox, Text: 22222222222
+ Mule
+  System.Windows.Forms.TextBox, Text: wwwwww10/10/25
+System.Windows.Forms.ComboBox, Items.Count: 6
+System.Windows.Forms.Label, Text: Selected color: ff804000
+student_picture.jpg

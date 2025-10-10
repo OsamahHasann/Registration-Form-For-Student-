@@ -132,8 +132,11 @@ namespace Rigistrion_form
 
         private void btn_save_Click(object sender, EventArgs e)
         {
-            string data = $"User Name: {user_name}\nEmail: {email}\nPassword: {lb_password}\nID: {id}\nGender: {gender}\nstudy level: {lb_stu_level}" +
-                $" {birth_day}\n Country: {country}\nFavorite Color: {color}"; ;
+            string data = $" {lb_username}\n" +
+                $"{lb_email}\n{lb_password}\n"+
+                  $"{lb_id}\n {gender}\n  {lb_stu_level}" +
+                $"{dtp_birthdate.Value.ToShortDateString()}\n{cmb_country}\n{lbl_selected_color}\n" +
+                $"{(pic_student.Image != null ?"student_picture.jpg":"noimage")}";
 
             File.WriteAllText("student_data.txt",data);
             if(pic_student.Image != null)
@@ -143,10 +146,7 @@ namespace Rigistrion_form
             MessageBox.Show("Data saved succssfully! ");
         }
 
-        private DateTimePicker GetDtp_birthdate()
-        {
-            return dtp_birthdate;
-        }
+       
 
         private void btn_load_Click(object sender, EventArgs e)
         {
@@ -156,7 +156,7 @@ namespace Rigistrion_form
                 return;
             }
             string[] lines = File.ReadAllLines("student_data.txt");
-            if(lines.Length < 8)
+            if(lines.Length < 9)
             {
                 MessageBox.Show("saved data in complate!");
                 return ;
@@ -171,12 +171,9 @@ namespace Rigistrion_form
            
             lb_stu_level.Text = lines[5];
             dtp_birthdate.Value = DateTime.Parse(lines[6]);
-           // string dateString = lines[6].Replace("Birth day: ", "").Trim();
-           // dtp_birthdate = DateTime.Parse(dateString);
-
             cmb_country.SelectedItem = lines[7];
             lbl_selected_color.Text = "Selected Color: "+lines[8];
-            if (File.Exists("student_picture.jpg") && lines[9] == "student_picture.jpg")
+            if (File.Exists("student_picture.jpg") )
             {
                 pic_student.Image = Image.FromFile("student_picture.jpg");
             }
